@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: darkgrey;
+}
+button{
+  padding: 10px 20px;
+  border: none !important; 
+  background-color: gray;
+  border-radius: 50px !important;
+}
+.Head{
+  font-weight:bolder;
+  font-size: 25px;
+}
+.head1{
+font-weight:bolder;
+font-size: 20px;
+}
+.head2{
+  font-weight:bold;
+  font-size: 15px;
+  }
+.link{
+  margin: 10px 20px;
+  text-decoration: none;
+  color: black !important;
+  font-weight: bold;
+}
+table tr td{
+  border: 2px solid;
+}
+table tr{
+  border: 2px solid;
+}
